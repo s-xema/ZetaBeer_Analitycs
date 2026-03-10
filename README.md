@@ -17,7 +17,7 @@ It centralises three core business areas — sales, production and stock — int
 analytical layer, enabling strategic decision-making through KPI monitoring, cost analysis
 and interactive forecasting.
 
-<p align="center"><img src="logo-zeta.png" width="150"/></p>
+<p align="center"><img src="images/logo-zeta.png" width="150"/></p>
 
 
 ## Report structure
@@ -50,7 +50,7 @@ and interactive forecasting.
 **Format:** `.pbip` — TMDL folder structure, fully versionable in Git
 **Culture** `es-ES`
 
-![Model layout](Model_layout.png)
+![Model layout](images/Model_layout.png)
 
 
 ### Tables
